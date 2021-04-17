@@ -124,7 +124,7 @@ int main() {
         }
         else if (menu == 5){
           saveData(&p, 1);
-        } 
+        } // 파일 저장, 불러오기는 기본 옵션인줄 알고 미리 했습니다
         // else if (menu == 6){
         //   count = sear(&p);
         // } 
