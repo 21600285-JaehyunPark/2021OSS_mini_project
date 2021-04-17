@@ -1,6 +1,6 @@
 #include "manager.h"
 
-int main() {
+int main() { // 그 전 과제에서 파일 저장, 불러오기 기능을 미리 구현하여 차이는 없습니다
     Product p[100];
     int count=0, menu, index = 0;
 
